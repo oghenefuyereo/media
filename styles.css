@@ -22,7 +22,7 @@ img {
 }
 
 .home {
-  background-image: url(images/sun.jpg);
+  background-image: url(images/dark-background-abstract-background-network-3d-background-3840x2160-8324.png);
   background-size: cover;
   background-position: center;
 }
@@ -106,9 +106,9 @@ a:hover {
 }
 
 .grid img {
-  width: 100%;
+  width: 200px;
   height: auto;
-  border-radius: 8px;
+  border-radius: 20px;
   transition: transform 0.3s;
 }
 
